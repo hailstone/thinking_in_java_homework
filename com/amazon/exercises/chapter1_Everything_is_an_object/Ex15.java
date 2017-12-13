@@ -1,4 +1,4 @@
-package exercises.chapter1_Everything_is_an_object;
+package exercises.chapter1_everything_is_an_object;
 
 /** Java doc test
  * line1

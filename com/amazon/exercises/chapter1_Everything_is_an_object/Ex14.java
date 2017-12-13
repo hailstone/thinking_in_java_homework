@@ -1,4 +1,4 @@
-package exercises.chapter1_Everything_is_an_object;//: object/Documentation1.java
+package exercises.chapter1_everything_is_an_object;//: object/Documentation1.java
 /** A class comment */
 public class Ex14 {
     /** A field comment */

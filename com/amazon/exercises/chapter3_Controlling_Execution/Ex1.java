@@ -1,4 +1,4 @@
-package exercises.chapter3_Controlling_Execution;
+package exercises.chapter3_controlling_execution;
 
 public class Ex1 {
     public static void main(String[] args) {

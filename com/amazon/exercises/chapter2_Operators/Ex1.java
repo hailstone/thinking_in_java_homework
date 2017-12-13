@@ -1,4 +1,4 @@
-package exercises.chapter2_Operators;
+package exercises.chapter2_operators;
 
 import static net.mindview.util.Print.*;
 

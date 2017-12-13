@@ -1,7 +1,6 @@
-package exercises.chapter3_Controlling_Execution;
+package exercises.chapter3_controlling_execution;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 
 public class Ex10 {
     public static void main(String[] args) {

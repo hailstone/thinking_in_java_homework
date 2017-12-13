@@ -1,12 +1,12 @@
-package exercises.chapter1_Everything_is_an_object;//: initialization/Overloading.java
+package exercises.chapter1_everything_is_an_object;//: initialization/Overloading.java
 // Demonstration of both constructor
 // and ordinary method overloading.
 
 import static com.sun.deploy.trace.Trace.print;
 
-/** exercises.chapter1_Everything_is_an_object.Tree class description */
+/** exercises.chapter1_everything_is_an_object.Tree class description */
 class Tree {
-    /** exercises.chapter1_Everything_is_an_object.Tree height */
+    /** exercises.chapter1_everything_is_an_object.Tree height */
     int height;
     /** Default tree constructor */
     Tree() {
@@ -18,18 +18,18 @@ class Tree {
      */
     Tree(int initialHeight) {
         height = initialHeight;
-        print("Creating new exercises.chapter1_Everything_is_an_object.Tree that is " +
+        print("Creating new exercises.chapter1_everything_is_an_object.Tree that is " +
                 height + " feet tall");
     }
     /** Print tree info */
     void info() {
-        print("exercises.chapter1_Everything_is_an_object.Tree is " + height + " feet tall");
+        print("exercises.chapter1_everything_is_an_object.Tree is " + height + " feet tall");
     }
     /** Print tree info with string in beginning
      * @param s String to print in the beginning
      */
     void info(String s) {
-        print(s + ": exercises.chapter1_Everything_is_an_object.Tree is " + height + " feet tall");
+        print(s + ": exercises.chapter1_everything_is_an_object.Tree is " + height + " feet tall");
     }
 }
 /** Class to demonstrate overloading*/

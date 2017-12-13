@@ -1,4 +1,4 @@
-package exercises.chapter2_Operators;
+package exercises.chapter2_operators;
 
 public class Ex9 {
     public static void main(String[] args) {

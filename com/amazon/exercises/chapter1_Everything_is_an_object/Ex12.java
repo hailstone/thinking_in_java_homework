@@ -1,4 +1,4 @@
-package exercises.chapter1_Everything_is_an_object;//: object/HelloDate.java
+package exercises.chapter1_everything_is_an_object;//: object/HelloDate.java
 import java.util.*;
 /** The first Thinking in Java example program.
  * Displays a string and today’s date.

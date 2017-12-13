@@ -1,4 +1,4 @@
-package exercises.chapter1_Everything_is_an_object;
+package exercises.chapter1_everything_is_an_object;
 
 public class Ex1 {
     public static int i;

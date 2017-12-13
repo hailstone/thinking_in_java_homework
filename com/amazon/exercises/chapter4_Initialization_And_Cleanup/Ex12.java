@@ -1,4 +1,4 @@
-package exercises.chapter4_Initialization_And_Cleanup;
+package exercises.chapter4_initialization_and_cleanup;
 
 public class Ex12 {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package exercises.chapter1_Everything_is_an_object;
+package exercises.chapter1_everything_is_an_object;
 
 public class Ex5 {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package exercises.chapter2_Operators;
+package exercises.chapter2_operators;
 
 public class Ex3 {
     public static void changeData(Data2 d) {
